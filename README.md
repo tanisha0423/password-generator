@@ -2,7 +2,7 @@
 
 A responsive password generator built with **React.js** and deployed on **Netlify**.
 
-Generate secure passwords based on selected length and character types (uppercase, lowercase, numbers, symbols). The strength indicator updates only when a new password is generated.
+Generate secure passwords based on selected length and character types (uppercase, lowercase, numbers, symbols).
 
 ---
 
